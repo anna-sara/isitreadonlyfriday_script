@@ -1,0 +1,19 @@
+{
+"Weekday": [
+ {"message":"Weekday message 1"},
+ {"message":"Weekday message 2"}, 
+ {"message":"Weekday message 3"}
+],
+
+"Friday": [
+ {"message":"Friday message 1"},
+ {"message":"Friday message 2"}, 
+ {"message":"Friday message 3"}
+],
+
+"Weekend": [
+ {"message":"Weekend message 1"},
+ {"message":"Weekend message 2"}, 
+ {"message":"Weekend message 3"}
+]
+}
