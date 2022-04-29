@@ -1,0 +1,1 @@
+# isitreadonlyfriday_script
